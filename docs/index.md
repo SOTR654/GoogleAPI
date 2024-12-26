@@ -1,4 +1,7 @@
-# Bienvenido a la documentación de mi proyecto
+# Bienvenido a la documentación
+- [Introducción](index.md)
+- [API](api.md)
+- [Características](features.md)
 
 Esta es la página principal de la documentación. Aquí puedes incluir:
 
