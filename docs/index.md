@@ -3,14 +3,9 @@
 - [API](api.md)
 - [Características](features.md)
 
-Esta es la página principal de la documentación. Aquí puedes incluir:
-
-- Una descripción del proyecto.
-- Enlaces a secciones específicas.
-- Ejemplos y guías rápidas.
-
-## Sección 1: Introducción
-Explica brevemente de qué trata tu proyecto.
+## About
+GoogleAPI es un modulo con el que puedes obtener informacion de los diversos servicios de Google.
+Este modulo usa Google Scripts mediante solicitudes http, 
 
 ## Sección 2: API
 Documenta los endpoints o funciones principales.
