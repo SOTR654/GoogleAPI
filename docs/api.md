@@ -1,6 +1,6 @@
 Documentacion completa.
 
-**# Index**
+# Index:
 1. [Main](#Main)
 2. SheetsFile
 3. SheetsPage
@@ -13,16 +13,11 @@ Abrirá el documento pedido.
 
 | Parameters | Description |
 |--|--|
-| **DocumentID:** `string` | ID del Spreadsheet a abri |
+| **DocumentID:** `string` | ID del Spreadsheet a abrir. |
 
+| Returns |  |
+|--|--|
+| void |  |
 
-
-
-**Returns**
-```
-void
-```
-
-
-****AddScriptID:**** (ID: string) -> ()
+**AddScriptID:** (ID: string) -> ()
 Si el ID es valido, lo añadira a la lista de Google Scripts.
