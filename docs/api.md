@@ -7,17 +7,30 @@ Documentacion completa.
 
 ## Main
 
+
+
 #### **OpenSheets** `SheetsFile`
 
 Abrirá el documento pedido.
 
 | Parameters | Description |
 |--|--|
-| **DocumentID:** `string` | ID del Spreadsheet a abrir. |
+| **DocumentID:** `string` | ID del `Spreadsheet` a abrir. |
 
-| Returns |  |
+| Returns | Description |
 |--|--|
-| void |  |
+| SheetsFile | `SheetsFile` representing the requested file. |
 
-**AddScriptID:** (ID: string) -> ()
+
+
+#### **AddScriptID** `void`
+
 Si el ID es valido, lo añadira a la lista de Google Scripts.
+
+| Parameters | Description |
+|--|--|
+| **ID:** `string` | ID del `Google Script` a abrir. |
+
+| Returns   |
+|----|
+| void   |
