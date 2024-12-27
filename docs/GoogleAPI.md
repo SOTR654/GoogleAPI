@@ -1,12 +1,4 @@
-Documentacion completa.
-
-# Index:
-1. [Main](#Main)
-2. SheetsFile
-3. SheetsPage
-
-## Main
-
+GoogleAPI Documentation.
 
 
 #### **OpenSheets** `SheetsFile`

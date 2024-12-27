@@ -9,6 +9,7 @@ Algun servicio que quieres? Sugierelo en la publicacion del foro!
 
 ## Constructor
 GoogleAPI inicialmente pide la ID de un [Google Script](GoogleScript.md) para iniciar, debes administrar los [limites de solicitudes](https://developers.google.com/apps-script/guides/services/quotas), puedes añadir mas ID de **diferentes usuarios** con los permisos correctos para amortiguar la carga.
+
 ```lua
 --    Base
 local GoogleModule = require(game:GetService("ServerStorage").GoogleAPI)
@@ -17,4 +18,5 @@ local GoogleAPI = GoogleModule(Google Script ID)
 --    Add other google script
 GoogleAPI:AddScriptID(Google Script ID)
 ```
-Una vez hecho, revisa la [API](api.md).
+
+Una vez hecho, revisa la documentacion de [GoogleAPI](GoogleAPI.md).

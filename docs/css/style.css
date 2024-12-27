@@ -1,0 +1,19 @@
+/* Estilo para las columnas */
+div {
+    margin-bottom: 20px;
+  }
+  
+  #contenido {
+    display: flex;
+  }
+  
+  #contenido .columna-principal {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  #contenido .tabla-contenido {
+    width: 250px;
+    padding-left: 20px;
+  }
+  
