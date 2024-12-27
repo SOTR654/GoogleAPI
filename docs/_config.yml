@@ -1,3 +1,6 @@
 title: "GoogleAPI"
-header_pages: false
+description: "Servicios de Google en Roblox!"
 theme: minima
+
+exclude:
+  - "README.md"
