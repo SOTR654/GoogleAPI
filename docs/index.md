@@ -17,6 +17,4 @@ local GoogleAPI = GoogleModule(Google Script ID)
 --    Add other google script
 GoogleAPI:AddScriptID(Google Script ID)
 ```
-
-## Sección 3: Ejemplos
-Proporciona ejemplos prácticos para los usuarios.
+}
