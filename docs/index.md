@@ -1,4 +1,3 @@
-## About
 GoogleAPI es un modulo con el que puedes obtener informacion de los diversos servicios de Google.
 Este modulo usa Google Scripts mediante solicitudes http para obtener los datos, todos los archivos a los cuales intentes acceder deben pertenecer a la misma cuenta o tener los permisos necesarios. 
 
