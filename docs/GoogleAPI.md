@@ -1,5 +1,6 @@
-GoogleAPI Documentation.
+GoogleAPI documentation.
 
+# Methods
 
 #### **OpenSheets** `SheetsFile`
 
