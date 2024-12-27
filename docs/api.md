@@ -1,23 +1,28 @@
 Documentacion completa.
 
-# Index
+**# Index**
 1. [Main](#Main)
 2. SheetsFile
 3. SheetsPage
 
 ## Main
-**ApplyAngularImpulse** void
-Abrira el documento pedido.
 
-**Parameters**
-| **DocumentID:** string 	| ID del Spreadsheet a abrir 	|
-|                        	|                            	|
+#### **OpenSheets** `SheetsFile`
 
-Returns
+Abrirá el documento pedido.
+
+| Parameters | Description |
+|--|--|
+| **DocumentID:** `string` | ID del Spreadsheet a abri |
+
+
+
+
+**Returns**
+```
 void
+```
 
-**OpenSheets:** (DocumentID: string) -> SheetsFile
-Abrira el documento pedido.
 
-**AddScriptID:** (ID: string) -> ()
+****AddScriptID:**** (ID: string) -> ()
 Si el ID es valido, lo añadira a la lista de Google Scripts.
