@@ -6,24 +6,23 @@ GoogleAPI documentation.
 
 Abrirá el documento pedido.
 
-| Parameters | Description |
-|--|--|
-| **DocumentID:** `string` | ID del `Spreadsheet` a abrir. |
+| Parameters |
+| -- |
+| **DocumentID:** `string`<br>ID del `Spreadsheet` a abrir. |
 
-| Returns | Description |
-|--|--|
-| SheetsFile | `SheetsFile` representing the requested file. |
-
+| Returns |
+| -- |
+| **SheetsFile:** `SheetsFile`<br>representing the requested file.  |
 
 
 #### **AddScriptID** `void`
 
 Si el ID es valido, lo añadira a la lista de Google Scripts.
 
-| Parameters | Description |
-|--|--|
-| **ID:** `string` | ID del `Google Script` a abrir. |
+| Parameters |
+|--|
+| **ID:** `string`<br>ID del `Google Script` a abrir. |
 
 | Returns   |
-|----|
+| -- |
 | void   |
