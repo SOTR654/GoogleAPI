@@ -25,11 +25,6 @@ project_entries:
 
   - title: Project 5
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
-
-  - title: Project 6
-    url: overview-post
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
@@ -41,10 +36,6 @@ old_project_entries:
   - title: Cookie
     url: https://github.com/abhinavs/cookie
     desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
 
   - title: Humangous
     url: https://www.humangous.co
@@ -72,23 +63,3 @@ misc_entries:
 
   - title: and you can add data in _data/home.yml
     url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
-
