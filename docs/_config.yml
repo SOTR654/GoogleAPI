@@ -1,4 +1,9 @@
 title: GoogleAPI
 description: Servicios de Google en Roblox!
 theme: minima
+remote_theme: jekyll/minima
 
+plugins:
+  - jekyll-remote-theme
+minima:
+  skin: auto # or auto if you want it to switch with your system settings.
