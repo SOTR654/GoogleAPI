@@ -2,9 +2,6 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
-
   - title: website
     url: https://www.abhinav.co
 
@@ -74,10 +71,6 @@ misc_entries:
     url: false
 
   - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
     url: false
 
   - title: moonwalk on the Internet
